@@ -10,8 +10,8 @@
 - ⚡ Fun fact **i also love music and i play 5 instruments**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/1lorenzsoriano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="enzo soriano" height="30" width="40" /></a>
+<p align="left">  
+<a href="https://www.youtube.com/@1lorenzsoriano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="1lorenzsoriano" height="30" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

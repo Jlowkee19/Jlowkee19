@@ -1,5 +1,7 @@
 <h3 align="center"> Hi, I'm Lorenz 👋 </h3>
 
+---
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Jlowkee19&label=Profile%20views&color=0e75b6&style=flat" alt="Jlowkee19" /> </p>
 
 <!--
